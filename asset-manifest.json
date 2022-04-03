@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/webrashahacks/static/css/main.b21e2f4c.css",
-    "main.js": "/webrashahacks/static/js/main.612b3631.js",
-    "index.html": "/webrashahacks/index.html",
-    "main.b21e2f4c.css.map": "/webrashahacks/static/css/main.b21e2f4c.css.map",
-    "main.612b3631.js.map": "/webrashahacks/static/js/main.612b3631.js.map"
+    "main.css": "/rashahacks.com/static/css/main.b21e2f4c.css",
+    "main.js": "/rashahacks.com/static/js/main.612b3631.js",
+    "index.html": "/rashahacks.com/index.html",
+    "main.b21e2f4c.css.map": "/rashahacks.com/static/css/main.b21e2f4c.css.map",
+    "main.612b3631.js.map": "/rashahacks.com/static/js/main.612b3631.js.map"
   },
   "entrypoints": [
     "static/css/main.b21e2f4c.css",
