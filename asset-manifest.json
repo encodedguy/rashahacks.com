@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rashahacks/static/css/main.b21e2f4c.css",
+    "main.js": "/rashahacks/static/js/main.612b3631.js",
+    "index.html": "/rashahacks/index.html",
+    "main.b21e2f4c.css.map": "/rashahacks/static/css/main.b21e2f4c.css.map",
+    "main.612b3631.js.map": "/rashahacks/static/js/main.612b3631.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b21e2f4c.css",
+    "static/js/main.612b3631.js"
+  ]
+}
