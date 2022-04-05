@@ -1,7 +1,15 @@
-# Getting Started with Create React App
+# Getting Started with rashahacks.com
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Adding your writeup to rashahacks.com
+### Clone this repository or edit remotely
+`git clone https://github.com/encodedguy/rashahacks.com`
+Go to src/data7381682.js file and add your writeup data
+`cd rashahacks.com/`
+`cd src`
+Edit data7381682.js, add one more field in the json data.
+Push the code
 
+## rashahacks.com is built in ReactJS
 ## Available Scripts
 
 In the project directory, you can run:
