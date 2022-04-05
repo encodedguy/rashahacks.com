@@ -1,6 +1,8 @@
 import React from 'react';
 import data from './data7381682.js';
 import Card from './Card.js'
+import Header from './Header.js'
+import Footer from './Footer.js'
 import './styles.css'
 
 function CreateCard(data){
@@ -16,13 +18,10 @@ function CreateCard(data){
 }
 
 function App(){
-    return <div>
-      <div className="top-container">
-        <a href="https://rashahacks.com"><p className='top-container-text'>Public Writeups Hub</p></a>
-      </div>
-
-    {data.map(CreateCard)}
-
+    return <div>   
+      <Header />
+      {data.map(CreateCard)}
+      <Footer />
     </div>
     
 }
