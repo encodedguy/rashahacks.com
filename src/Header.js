@@ -1,9 +1,11 @@
 import React from 'react';
 
 function Header(){
-    return <div className="top-container block sticky">
-                <a href="https://rashahacks.com"><p className='top-container-text'>Writeups Hub</p></a>
-           </div>
+    return <div class="top">
+                <div class="top-heading">
+                    <a href="https://rashahacks.com"><h1>BUG BOUNTY WRITEUPS</h1></a>
+                </div>
+            </div>
 }
 
 export default Header;
