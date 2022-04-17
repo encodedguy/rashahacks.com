@@ -274,6 +274,17 @@ const data = [
         source_link: "https://hackerone.com/hacktivity",
         source_name: "Hackerone"
     }
+     {
+        id: 26,
+        author_name: "Abhay Vishwakarma",
+        author_link: "https://hackerone.com/abhayofc?type=user",
+        writeup_link: "https://abhayvis.medium.com/how-i-hacked-my-schools-students-portal-to-get-access-to-any-student-s-details-d58f10cfe596",
+        writeup_name: "IDOR Leads To Full Account Takeover",
+        bug_name: "IDOR",
+        bug_link: "https://www.hackerone.com/company-news/rise-idor",
+        source_link: "https://abhayvis.medium.com",
+        source_name: "Medium"
+    }
 ]
 
 export default data;
