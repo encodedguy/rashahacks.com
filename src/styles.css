@@ -8,7 +8,7 @@ a{
 
 h1{
   color: #FAEDF0;
-  text-shadow: 3px 3px black;
+  text-shadow: 0.25vw 0.25vw black;
 }
 
 p{
@@ -16,46 +16,46 @@ p{
 }
 
 div{
-  border-radius: 10px;
-  border: 2px;
+  border-radius: 0.52vw;
+  border: 0.1vw;
 }
 
 .top{
-  margin-top: 3rem;
+  margin-top: 2.5vw;
   margin-left: 10%;
   margin-right: 10%;
-  height: 10rem;
+  height: 8.33vw;
   background-color: #161853;
 }
 
 .top-heading{
   display: block;
-  font-size: 3rem;
+  font-size: 2.5vw;
   text-align: center;
-  height: 10rem;
+  height: 8.33vw;
   background-color: #161853;
   position: relative;
-  top: 1.5rem;
+  top: 1.25vw;
   font-family: 'Alegreya Sans SC', sans-serif;
 }
 
 .middle{
   position: sticky;
-  top: 0px;
+  top: 0;
   z-index: 3;
   border-radius: 0;
   margin-left: 2%;
   margin-right: 2%;
-  height:12rem;
-  margin-top: 3rem;
+  height: 10vw;
+  margin-top: 2.5vw;
   background-color: #161853;
 }
 
 .title-box{
   font-family: 'Cabin', sans-serif;
   text-align: center;
-  font-size: 1.5rem;
-  height: 5rem;
+  font-size: 1.2vw;
+  height: 4.16vw;
   width: 40%;
   background-color: #292C6D;
   display: inline-block;
@@ -64,7 +64,7 @@ div{
 }
 
 .title-box:hover{
-  background-color: #FAEDF0;
+  background-color: #06113C;
 }
 
 .heading-box-content{
@@ -73,16 +73,12 @@ div{
   top: 0.5rem;
 }
 
-.heading-box-content:hover{
-  color: #292C6D
-}
-
 .subheading-box{
   background-color: #FAEDF0;
   font-family: 'Cabin', sans-serif;
   text-align: center;
-  font-size: 1.5rem;
-  height: 5rem;
+  font-size: 1.25vw;
+  height: 4.16vw;
   width: 15%;
   display: inline-block;
   margin-top: 3%;
@@ -90,25 +86,21 @@ div{
 }
 
 .subheading-box:hover{
-  background-color: #292C6D;
-}
-
-.subheading-box-content:hover{
-  color: #FAEDF0;
+  background-color: #F7E2E2;
 }
 
 .content{
   margin-left: 2%;
   margin-right: 2%;
-  height: 100px;
+  height: 5.2vw;
   background-color: #161853;
 }
 
 .content-box-title{
   font-family: 'Cabin', sans-serif;
   text-align: center;
-  font-size: 1.1rem;
-  height: 4rem;
+  font-size: 1vw;
+  height: 3.4vw;
   width: 40%;
   background-color: #EC255A;
   display: inline-block;
@@ -116,30 +108,26 @@ div{
 }
 
 .content-box-title:hover{
-  background-color: #FAEDF0;
+  background-color: #D82148;
 }
 
 .content-box-content-title{
   color: #FAEDF0;
 }
 
-.content-box-content-title:hover{
-  color: #EC255A;
-}
-
 .content-box-content{
   color: black;
   position: relative;
-  top: 0.5rem;
+  top: 0.45vw;
 }
 
 .content-box-detail{
-  box-shadow: 5px 10px #000D6B;
+  /* box-shadow: 0.255vw 0.52vw #000D6B; */
   background-color: #FAEDF0;
   font-family: 'Cabin', sans-serif;
   text-align: center;
-  font-size: 1rem;
-  height: 4rem;
+  font-size: 0.9vw;
+  height: 3.4vw;
   width: 15%;
   display: inline-block;
   margin-top: 1%;
@@ -147,9 +135,18 @@ div{
 }
 
 .content-box-detail:hover{
-  background-color: #292C6D;
+  background-color: #F2C9E1;
 }
 
-.content-box-content:hover{
+.footer{
+  text-align: center;
+  height: 2.5vw;
+  width: 80%;
+  margin: auto;
+}
+
+.bottom-container-text{
+  font-family: 'Cabin', sans-serif;
+  font-size: 1.2vw;
   color: #FAEDF0;
 }
