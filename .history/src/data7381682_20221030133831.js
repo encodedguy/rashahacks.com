@@ -273,7 +273,7 @@ const data = [
         bug_link: "https://www.hackerone.com/application-security/guide-subdomain-takeovers",
         source_link: "https://hackerone.com/hacktivity",
         source_name: "Hackerone"
-    },
+    }
      {
         id: 26,
         author_name: "Abhay Vishwakarma",
