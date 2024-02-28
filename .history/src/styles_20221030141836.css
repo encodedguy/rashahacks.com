@@ -140,9 +140,12 @@ div{
 
 .footer{
   text-align: center;
-  height: 7vh;
+  height: 5vh;
   width: 100%;
   margin: auto;
+  color: #FAEDF0;
+  font-family: 'Cabin', sans-serif;
+  font-size: 3vh;
 }
 .footer-head{
   font-family: 'Cabin', sans-serif;
@@ -153,6 +156,6 @@ div{
 
 .bottom-container-text{
   font-family: 'Cabin', sans-serif;
-  font-size: 2vh;
+  font-size: 1.2vw;
   color: #FAEDF0;
 }
